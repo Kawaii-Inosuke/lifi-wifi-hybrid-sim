@@ -1,0 +1,4 @@
+policy,n_seeds,avg_mean,avg_ci95,outage_mean,outage_ci95,switches_mean,switches_ci95,lifi_share_mean,lifi_share_ci95
+Wi-Fi only,30,120,0,0,0,0,0,0,0
+Li-Fi only,30,434.612,6.38791,9.65222,0.917871,0,0,100,0
+Hysteresis 15/10 dB,30,397.936,6.95836,7.76667,0.409033,80,4.22347,74.4167,1.43626

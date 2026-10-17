@@ -1,0 +1,49 @@
+parameter,value,unit_label,coverage_pct,corner_snr_db,is_default
+h_led,2.25,LED height (m),37.7092,,False
+h_led,2.5,LED height (m),40.9603,,False
+h_led,2.75,LED height (m),43.146,,False
+h_led,3,LED height (m),44.3481,,True
+h_led,3.25,LED height (m),44.3481,,False
+h_led,3.5,LED height (m),43.146,2.30881,False
+h_led,3.75,LED height (m),40.9603,2.93736,False
+h_led,4,LED height (m),37.6545,3.4064,False
+half_angle_deg,15,LED half-power semi-angle (deg),15.7981,,False
+half_angle_deg,20,LED half-power semi-angle (deg),23.6118,,False
+half_angle_deg,25,LED half-power semi-angle (deg),30.7424,,False
+half_angle_deg,30,LED half-power semi-angle (deg),36.8349,,False
+half_angle_deg,35,LED half-power semi-angle (deg),41.015,,False
+half_angle_deg,40,LED half-power semi-angle (deg),43.9383,,False
+half_angle_deg,45,LED half-power semi-angle (deg),45.1677,,False
+half_angle_deg,50,LED half-power semi-angle (deg),45.7414,,False
+half_angle_deg,55,LED half-power semi-angle (deg),45.1677,,False
+half_angle_deg,60,LED half-power semi-angle (deg),44.3481,,True
+half_angle_deg,65,LED half-power semi-angle (deg),42.982,,False
+half_angle_deg,70,LED half-power semi-angle (deg),41.4248,,False
+half_angle_deg,75,LED half-power semi-angle (deg),39.7036,,False
+fov_deg,30,Receiver FOV (deg),13.2027,,False
+fov_deg,35,Receiver FOV (deg),19.541,,False
+fov_deg,40,Receiver FOV (deg),27.9557,,False
+fov_deg,45,Receiver FOV (deg),39.526,,False
+fov_deg,50,Receiver FOV (deg),55.2216,,False
+fov_deg,55,Receiver FOV (deg),49.0199,,False
+fov_deg,60,Receiver FOV (deg),44.3481,,True
+fov_deg,65,Receiver FOV (deg),40.6325,-0.361573,False
+fov_deg,70,Receiver FOV (deg),37.6545,-0.989956,False
+fov_deg,75,Receiver FOV (deg),35.5235,-1.46826,False
+fov_deg,80,Receiver FOV (deg),34.1302,-1.80456,False
+fov_deg,85,Receiver FOV (deg),33.2832,-2.00426,False
+fov_deg,90,Receiver FOV (deg),33.0647,-2.07049,False
+b_lifi,10,Bandwidth (MHz),94.1534,,False
+b_lifi,20,Bandwidth (MHz),83.9355,,False
+b_lifi,50,Bandwidth (MHz),60.0301,,False
+b_lifi,100,Bandwidth (MHz),44.3481,,True
+b_lifi,150,Bandwidth (MHz),36.0699,,False
+b_lifi,200,Bandwidth (MHz),30.7424,,False
+b_lifi,300,Bandwidth (MHz),24.0489,,False
+p_t,0.25,Transmit optical power (W),2.32908,,False
+p_t,0.5,Transmit optical power (W),19.7049,,False
+p_t,1,Transmit optical power (W),44.3481,,True
+p_t,2,Transmit optical power (W),78.9632,,False
+p_t,3,Transmit optical power (W),92.924,,False
+p_t,4,Transmit optical power (W),96.503,,False
+p_t,5,Transmit optical power (W),96.503,,False

@@ -1,0 +1,17 @@
+variant,policy,n_seeds,avg_mean,avg_ci95,outage_mean,outage_ci95,switches_mean,switches_ci95,lifi_share_mean,lifi_share_ci95
+Prototype (all fixes off),Wi-Fi only,30,120,0,0,0,0,0,0,0
+Prototype (all fixes off),Li-Fi only,30,434.612,6.38791,9.65222,0.917871,0,0,100,0
+Prototype (all fixes off),Hysteresis 15/10 dB,30,397.936,6.95836,7.76667,0.409033,80,4.22347,74.4167,1.43626
+Prototype (all fixes off),Ideal (upper bound),30,446.196,5.50571,0,0,61.2667,4.6864,90.2722,0.923739
+IM/DD capacity bound for Li-Fi,Wi-Fi only,30,120,0,0,0,0,0,0,0
+IM/DD capacity bound for Li-Fi,Li-Fi only,30,365.381,6.18573,9.65222,0.917871,0,0,100,0
+IM/DD capacity bound for Li-Fi,Hysteresis 15/10 dB,30,346.875,6.13333,7.76667,0.409033,80,4.22347,74.4167,1.43626
+IM/DD capacity bound for Li-Fi,Ideal (upper bound),30,377.737,5.33091,0,0,76.9667,4.90942,87.2344,1.05348
+Correlated Wi-Fi shadowing,Wi-Fi only,30,120,0,0,0,0,0,0,0
+Correlated Wi-Fi shadowing,Li-Fi only,30,434.612,6.38791,9.65222,0.917871,0,0,100,0
+Correlated Wi-Fi shadowing,Hysteresis 15/10 dB,30,397.936,6.95836,7.76667,0.409033,80,4.22347,74.4167,1.43626
+Correlated Wi-Fi shadowing,Ideal (upper bound),30,446.196,5.50571,0,0,61.2667,4.6864,90.2722,0.923739
+Wi-Fi MAC efficiency 0.6,Wi-Fi only,30,72,0,0,0,0,0,0,0
+Wi-Fi MAC efficiency 0.6,Li-Fi only,30,434.612,6.38791,9.65222,0.917871,0,0,100,0
+Wi-Fi MAC efficiency 0.6,Hysteresis 15/10 dB,30,387.468,7.56623,7.76667,0.409033,80,4.22347,74.4167,1.43626
+Wi-Fi MAC efficiency 0.6,Ideal (upper bound),30,441.561,5.84979,0,0,60.6667,4.68578,90.3478,0.917871

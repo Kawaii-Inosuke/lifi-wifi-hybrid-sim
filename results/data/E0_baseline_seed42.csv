@@ -1,0 +1,4 @@
+scheme,avg_mbps,outage_pct,switches,lifi_share_pct
+Wi-Fi only,120,0,0,
+Li-Fi only,438.304,10.7333,0,
+Hybrid,407.829,6.6,67,75

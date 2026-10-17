@@ -1,0 +1,4 @@
+case,n_leds,p_per_led_w,p_total_w,coverage_pct,any_signal_pct,snr_median_db,snr_min_in_room_db
+"1 LED, 1 W (baseline)",1,1,1,44.3481,96.503,14.1881,
+"2x2 LEDs, 1 W each (4 W total)",4,1,4,100,100,23.2423,16.2036
+"2x2 LEDs, 0.25 W each (1 W total)",4,0.25,1,9.3163,100,11.2045,4.16389
